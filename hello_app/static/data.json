@@ -1,0 +1,9 @@
+{
+    "01": {
+      "note": "This data is very simple because we're demonstrating only the mechanism."
+    },
+
+    "02" : {
+        "flag" : "etc2020{TEST_JSON_FEATURE}"
+    }
+}
